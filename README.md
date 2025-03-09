@@ -1,4 +1,4 @@
-# Streamlit Dashboard
+# BikeSharing Dashboard 🚲
 
 ## Project Background
 This project is a submission for the **Dicoding Belajar Analisis Data dengan Python** class. It is designed to showcase data analysis using Python and Streamlit for interactive visualizations.
