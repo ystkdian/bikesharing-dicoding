@@ -65,8 +65,8 @@ def create_time_cluster_count_df(df):
     return time_cluster_count_df
 
 # Memuat file .csv ke dalam dataframe
-day_df = pd.read_csv("day.csv")
-hour_df = pd.read_csv("hour.csv")
+day_df = pd.read_csv(r"day.csv")
+hour_df = pd.read_csv(r"hour.csv")
 
 datetime_columns = ["date"]
 day_df.sort_values(by="date", inplace=True)
